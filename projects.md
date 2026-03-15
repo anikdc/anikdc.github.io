@@ -4,11 +4,11 @@ title: Projects
 permalink: /projects/
 ---
 
-Here are some of the key projects I have worked on.
+Here are the key projects detailed in my latest resume.
 
 ---
 
-## [NLP-Driven Commodity Risk Analyzer](https://github.com/anikdc/NLP-Commodity-Risk-Analyzer)
+## [NLP-Driven Commodity Risk Analyzer](https://github.com/anikdc/nlp-risk)
 *Python, XGBoost, SHAP, Pandas*
 
 - Engineered an end-to-end ML pipeline with a Bronze→Silver→Gold Data Lake architecture, ingesting 50,000+ Reddit WorldNews headlines and daily WTI Crude Oil prices over an 8-year backtest window (2008–2016).
@@ -18,7 +18,7 @@ Here are some of the key projects I have worked on.
 
 ---
 
-## [AI Agents with RSS](https://github.com/anikdc/AI-Agents-RSS) *(Ongoing)*
+## [AI Agents with RSS](https://github.com/anikdc/RSSAIAgents) *(Ongoing)*
 *Python, Scikit-Learn, Streamlit, BeautifulSoup*
 
 - Engineered a multi-agent automated pipeline to ingest real-time RSS feeds, extract raw articles, and autonomously generate comprehensive news briefings.
@@ -28,7 +28,7 @@ Here are some of the key projects I have worked on.
 
 ---
 
-## [Raycasting Engine](https://github.com/anikdc/Ray-Casting)
+## [Raycasting Engine](https://github.com/anikdc/raycasting)
 *Python, PyGame, Vector Math, Trigonometry, Algorithms*
 
 - Engineered a custom pseudo-3D graphics engine from scratch, implementing core volumetric raycasting algorithms and trigonometric transformations to project a 2D array into a fully textured first-person perspective.
