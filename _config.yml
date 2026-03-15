@@ -1,0 +1,21 @@
+title: Anik Dutta Choudhury
+author: Anik Dutta Choudhury
+email: anik2@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Personal portfolio and blog of Anik Dutta Choudhury. 
+  Learning Computer Science.
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+header_pages:
+  - index.md
+  - projects.md
+  - reading.md
+  - blog.md
+  # - treeviz.html # You can link this later if needed
+
+# Social links underneath Minima footer
+github_username: anikdc
+twitter_username: _a_dc
