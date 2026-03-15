@@ -5,42 +5,39 @@ permalink: /
 ---
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
-  <img src="/PFP.jpg" alt="Anik Dutta Choudhury" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <img src="/PFP.jpg" alt="Anik Dutta Choudhury" style="width: 150px; min-width: 150px; height: auto; border-radius: 12px; object-fit: contain; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   <div>
-    <h1>Anik Dutta Choudhury</h1>
-    <p><em>Learning Computer Science.</em></p>
+    <h1 style="margin-top: 0;">Anik Dutta Choudhury</h1>
+    <p><em>B.Tech CSE, NIIT University</em></p>
     <p>
-      Welcome to my personal website. I am passionate about Computer Science, Epistemology, and building robust software solutions.
+      Welcome to my personal website. I am passionate about Computer Science, Data Science, and building robust software solutions.
     </p>
   </div>
 </div>
 
+---
+
 ## Education
 
-**B.Tech (CSE), NIIT University**
-*2023 to 2027* - CGPA: 8.83
-- **Relevant Modules:** Fundamentals of Computer Programming, Calculus, Algebra and Differential Equations, Data Structures, Discrete Mathematics, Computer Architecture, Design and Analysis of Algorithms, Object Oriented Programming, Digital image Processing, Database Management System, Operating System, Theory of Computation, Computer Networks, Cryptography, Artificial Intelligence, Big Data, Cloud Computing
+**B.Tech in Computer Science, NIIT University** *(Neemrana, Rajasthan)*
+*2023 – 2027* · CGPA: 8.73
 
-**XII, South Point High School (CBSE)**
-*2023*
+**Relevant Coursework:** Predictive Modeling for Data Science, Numerical Methods for Data Science, Inferential Statistics for Data Science, Big Data Concepts, Artificial Intelligence, Object Oriented Programming
 
-**X, South Point High School (CBSE)**
-*2021*
+## Technical Skills
 
-## Skills
+| Category | Details |
+|---|---|
+| **Programming** | Python, SQL, Java, JavaScript, HTML/CSS |
+| **Libraries** | Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn |
+| **Concepts** | Data Cleaning, Data Transformation, Data Analysis, Machine Learning, Data Quality, Data Validation |
+| **Version Control** | Git, GitHub |
+| **Cloud** | AWS (EC2, S3, RDS, etc.), Oracle Cloud |
+| **Tools & Visualization** | PowerBI, Streamlit |
 
-Python, Java, Object Oriented Programming, HTML, CSS, C++
+## Achievements & Activities
 
-## Certification
-
-- **Hacktorate Runners Up Certificate**, 2025
-- **Design and Implementation of Solutions for Assorted Problems in Computer Science**, 2025
-
-## Extra-Curricular
-
-**Volunteer, NIIT Limited**
-- Taught English to rural children. 
-
-## Achievements
-
+- **Paper accepted** — *A Comparative Experimental Study of Maze Solving Algorithms in Known and Unknown Environments*, accepted for **ICICV 2026** conference
+- **Certification** — Design and Implementation of Solutions for Assorted Problems in Computer Science, 2025
 - **College Hackathon Runners Up**, 2024
+- **Volunteering** — Taught English to rural children, 2023
